@@ -140,7 +140,7 @@ const Project = () => {
         {/* Extra CTA */}
         <div className="mt-5">
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/Hariiharan-Developer"
             target="_blank"
             rel="noreferrer"
             className="btn btn-warning fw-bold"
