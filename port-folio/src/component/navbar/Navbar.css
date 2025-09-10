@@ -1,0 +1,18 @@
+/* Normal links */
+.nav-link {
+  color: #f8fafc !important;  /* light white text on dark bg */
+  transition: color 0.3s, border-bottom 0.3s;
+}
+
+/* Hover effect */
+.nav-link:hover {
+  color: #FFD700 !important; /* gold on hover */
+  border-bottom: 1px solid #FFD700;
+}
+
+/* Active page underline */
+.active-link {
+  color: #FFD700 !important;
+  border-bottom: 1px solid #FFD700;
+}
+
