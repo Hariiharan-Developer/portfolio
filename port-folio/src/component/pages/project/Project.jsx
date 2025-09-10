@@ -46,7 +46,7 @@ const Project = () => {
                     Live Demo
                   </a>
                   <a
-                    href="https://github.com/yourgithub/swiggy-clone"
+                    href="https://github.com/Hariiharan-Developer/Food-Online-Order"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-outline-warning btn-sm fw-bold"
@@ -77,7 +77,7 @@ const Project = () => {
                 </p>
                 <div className="d-flex justify-content-center gap-2">
                   <a
-                    href="https://netflix-clone-demo.vercel.app"
+                    href="https://netfilx-clone-we5a.onrender.com/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-warning btn-sm fw-bold"
@@ -85,7 +85,7 @@ const Project = () => {
                     Live Demo
                   </a>
                   <a
-                    href="https://github.com/yourgithub/netflix-clone"
+                    href="https://github.com/Hariiharan-Developer/Netfilx-clone"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-outline-warning btn-sm fw-bold"
